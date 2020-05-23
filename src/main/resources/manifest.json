@@ -1,0 +1,2620 @@
+{
+  "files": {
+    "Dungeons": {
+      "type": "directory"
+    },
+    "Dungeons.exe": {
+      "downloads": {
+        "lzma": {
+          "sha1": "86af07b3aea5f0503b8d7650ebf6278a17588f42",
+          "size": 90313,
+          "url": "https://piston-data.mojang.com/v1/objects/86af07b3aea5f0503b8d7650ebf6278a17588f42/Dungeons.exe"
+        },
+        "raw": {
+          "sha1": "fa8845b0f08077bb0478bb83c3835023d18fa871",
+          "size": 186368,
+          "url": "https://piston-data.mojang.com/v1/objects/fa8845b0f08077bb0478bb83c3835023d18fa871/Dungeons.exe"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Binaries": {
+      "type": "directory"
+    },
+    "Dungeons/Binaries/Win64": {
+      "type": "directory"
+    },
+    "Dungeons/Binaries/Win64/Dungeons-Win64-Shipping.exe": {
+      "downloads": {
+        "raw": {
+          "sha1": "49b4bba51c6a6d99adbe0b42284e4a2a382c210e",
+          "size": 34172944,
+          "url": "https://piston-data.mojang.com/v1/objects/49b4bba51c6a6d99adbe0b42284e4a2a382c210e/Dungeons-Win64-Shipping.exe"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content": {
+      "type": "directory"
+    },
+    "Dungeons/Content/Movies": {
+      "type": "directory"
+    },
+    "Dungeons/Content/Movies/Chest": {
+      "type": "directory"
+    },
+    "Dungeons/Content/Movies/Chest/chest_enchant_pop.mp4": {
+      "downloads": {
+        "raw": {
+          "sha1": "d9c3750ffa3ed2dc5b75e96ecb5b63bac7ada17a",
+          "size": 609879,
+          "url": "https://piston-data.mojang.com/v1/objects/d9c3750ffa3ed2dc5b75e96ecb5b63bac7ada17a/chest_enchant_pop.mp4"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Movies/Chest/chest_unlockable_loop.mp4": {
+      "downloads": {
+        "raw": {
+          "sha1": "98e77ac664d23bfb7ff494b1b484d18759ced2b0",
+          "size": 232626,
+          "url": "https://piston-data.mojang.com/v1/objects/98e77ac664d23bfb7ff494b1b484d18759ced2b0/chest_unlockable_loop.mp4"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Movies/Chest/chest_unlockable_loop_ps4.mp4": {
+      "downloads": {
+        "raw": {
+          "sha1": "1f2308bc66ad29eab7696f071de1a2e8a7f83243",
+          "size": 504758,
+          "url": "https://piston-data.mojang.com/v1/objects/1f2308bc66ad29eab7696f071de1a2e8a7f83243/chest_unlockable_loop_ps4.mp4"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Movies/Chest/golden_pop.mp4": {
+      "downloads": {
+        "raw": {
+          "sha1": "1e0a451a0728efa77bbb69b38e3babb89b554c08",
+          "size": 256139,
+          "url": "https://piston-data.mojang.com/v1/objects/1e0a451a0728efa77bbb69b38e3babb89b554c08/golden_pop.mp4"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Movies/Chest/golden_pop_ps4.mp4": {
+      "downloads": {
+        "raw": {
+          "sha1": "6dd54c23b979b15e429fe7e3e19a605314ca8d05",
+          "size": 1642497,
+          "url": "https://piston-data.mojang.com/v1/objects/6dd54c23b979b15e429fe7e3e19a605314ca8d05/golden_pop_ps4.mp4"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Movies/Death": {
+      "type": "directory"
+    },
+    "Dungeons/Content/Movies/Death/death_pop.mp4": {
+      "downloads": {
+        "raw": {
+          "sha1": "6b21e7368cd4b95afa6dbc0752eb9840592d678a",
+          "size": 421949,
+          "url": "https://piston-data.mojang.com/v1/objects/6b21e7368cd4b95afa6dbc0752eb9840592d678a/death_pop.mp4"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Movies/Emeralds": {
+      "type": "directory"
+    },
+    "Dungeons/Content/Movies/Emeralds/hud_emerald_cloud.mp4": {
+      "downloads": {
+        "raw": {
+          "sha1": "a67547b9cebee0cefbc34d1cd2584ae176e14f5a",
+          "size": 392096,
+          "url": "https://piston-data.mojang.com/v1/objects/a67547b9cebee0cefbc34d1cd2584ae176e14f5a/hud_emerald_cloud.mp4"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Movies/Emeralds/hud_emerald_cloud_ps4.mp4": {
+      "downloads": {
+        "raw": {
+          "sha1": "2172c4689b6aede78e63acab8515aba336e5de1c",
+          "size": 567633,
+          "url": "https://piston-data.mojang.com/v1/objects/2172c4689b6aede78e63acab8515aba336e5de1c/hud_emerald_cloud_ps4.mp4"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Movies/Experience": {
+      "type": "directory"
+    },
+    "Dungeons/Content/Movies/Experience/hud_level_up_text.mp4": {
+      "downloads": {
+        "raw": {
+          "sha1": "99e076665bcee3cb26383335cdd63285867105a3",
+          "size": 466851,
+          "url": "https://piston-data.mojang.com/v1/objects/99e076665bcee3cb26383335cdd63285867105a3/hud_level_up_text.mp4"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Movies/Experience/hud_level_up_xp.mp4": {
+      "downloads": {
+        "raw": {
+          "sha1": "a97e44cab2d252f9d71417e86c6798fe617224c7",
+          "size": 767211,
+          "url": "https://piston-data.mojang.com/v1/objects/a97e44cab2d252f9d71417e86c6798fe617224c7/hud_level_up_xp.mp4"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Movies/GameIntro": {
+      "type": "directory"
+    },
+    "Dungeons/Content/Movies/GameIntro/dungeons_intro_1080.mp4": {
+      "downloads": {
+        "raw": {
+          "sha1": "8a6357998fa052676ad4d0af53216cefcb0d93f4",
+          "size": 87107894,
+          "url": "https://piston-data.mojang.com/v1/objects/8a6357998fa052676ad4d0af53216cefcb0d93f4/dungeons_intro_1080.mp4"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Movies/GameIntro/dungeons_intro_720.mp4": {
+      "downloads": {
+        "raw": {
+          "sha1": "78e6ef5e9797e8eac7fe1ce27d7474b9942ff64c",
+          "size": 87107986,
+          "url": "https://piston-data.mojang.com/v1/objects/78e6ef5e9797e8eac7fe1ce27d7474b9942ff64c/dungeons_intro_720.mp4"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Movies/GameOutro": {
+      "type": "directory"
+    },
+    "Dungeons/Content/Movies/GameOutro/dungeons_outro_1080.mp4": {
+      "downloads": {
+        "raw": {
+          "sha1": "036586f625023a01ebf0fdad0a77c1755d1b0ce2",
+          "size": 58100446,
+          "url": "https://piston-data.mojang.com/v1/objects/036586f625023a01ebf0fdad0a77c1755d1b0ce2/dungeons_outro_1080.mp4"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Movies/GameOutro/dungeons_outro_720.mp4": {
+      "downloads": {
+        "raw": {
+          "sha1": "2b6fdadbf44707e6bee0d0e7d2d7975cf27d8b3a",
+          "size": 58100501,
+          "url": "https://piston-data.mojang.com/v1/objects/2b6fdadbf44707e6bee0d0e7d2d7975cf27d8b3a/dungeons_outro_720.mp4"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Movies/Hotbar": {
+      "type": "directory"
+    },
+    "Dungeons/Content/Movies/Hotbar/activated_teleport.mp4": {
+      "downloads": {
+        "lzma": {
+          "sha1": "2d48dce6c342bc7fae6989706c64b6b4e2d14a4a",
+          "size": 152748,
+          "url": "https://piston-data.mojang.com/v1/objects/2d48dce6c342bc7fae6989706c64b6b4e2d14a4a/activated_teleport.mp4"
+        },
+        "raw": {
+          "sha1": "dfd5933cd51a55aa295dcbfaca7a555d826cf03a",
+          "size": 233984,
+          "url": "https://piston-data.mojang.com/v1/objects/dfd5933cd51a55aa295dcbfaca7a555d826cf03a/activated_teleport.mp4"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Movies/Hotbar/hud_fire_arrow.mp4": {
+      "downloads": {
+        "raw": {
+          "sha1": "78ac65eefde8f5611f46c82e6df70f256e838d6c",
+          "size": 385252,
+          "url": "https://piston-data.mojang.com/v1/objects/78ac65eefde8f5611f46c82e6df70f256e838d6c/hud_fire_arrow.mp4"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Movies/Hotbar/hud_fire_arrow_ps4.mp4": {
+      "downloads": {
+        "lzma": {
+          "sha1": "80ea1f77465f0cbb9c069e30346ea30ddd9c4489",
+          "size": 52312,
+          "url": "https://piston-data.mojang.com/v1/objects/80ea1f77465f0cbb9c069e30346ea30ddd9c4489/hud_fire_arrow_ps4.mp4"
+        },
+        "raw": {
+          "sha1": "3e956e6da54164356d633e201803da2ec3676658",
+          "size": 126187,
+          "url": "https://piston-data.mojang.com/v1/objects/3e956e6da54164356d633e201803da2ec3676658/hud_fire_arrow_ps4.mp4"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Movies/Hotbar/hud_rocket_arrow.mp4": {
+      "downloads": {
+        "raw": {
+          "sha1": "ed951e788efa157dd468e012ec109f93c13071aa",
+          "size": 531273,
+          "url": "https://piston-data.mojang.com/v1/objects/ed951e788efa157dd468e012ec109f93c13071aa/hud_rocket_arrow.mp4"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Movies/Hotbar/hud_rocket_arrow_ps4.mp4": {
+      "downloads": {
+        "lzma": {
+          "sha1": "794850242976f3e2dd987c80dfe78c0a0a424c26",
+          "size": 54488,
+          "url": "https://piston-data.mojang.com/v1/objects/794850242976f3e2dd987c80dfe78c0a0a424c26/hud_rocket_arrow_ps4.mp4"
+        },
+        "raw": {
+          "sha1": "19c6fb9d1fd3459b20def961ccd17e7e4025bace",
+          "size": 128488,
+          "url": "https://piston-data.mojang.com/v1/objects/19c6fb9d1fd3459b20def961ccd17e7e4025bace/hud_rocket_arrow_ps4.mp4"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Movies/Hotbar/hud_soul_arrow.mp4": {
+      "downloads": {
+        "raw": {
+          "sha1": "7e0226e1d46156ef2640365a1c7e146d4e2808a5",
+          "size": 567324,
+          "url": "https://piston-data.mojang.com/v1/objects/7e0226e1d46156ef2640365a1c7e146d4e2808a5/hud_soul_arrow.mp4"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Movies/Hotbar/hud_soul_arrow_ps4.mp4": {
+      "downloads": {
+        "lzma": {
+          "sha1": "00ce0750f85564d291ac6c19fc7acded38f94d73",
+          "size": 54746,
+          "url": "https://piston-data.mojang.com/v1/objects/00ce0750f85564d291ac6c19fc7acded38f94d73/hud_soul_arrow_ps4.mp4"
+        },
+        "raw": {
+          "sha1": "365a2f7386b3317cb9f7138f9fde29afe6ee7fcd",
+          "size": 129341,
+          "url": "https://piston-data.mojang.com/v1/objects/365a2f7386b3317cb9f7138f9fde29afe6ee7fcd/hud_soul_arrow_ps4.mp4"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Movies/Inventory": {
+      "type": "directory"
+    },
+    "Dungeons/Content/Movies/Inventory/anim_powerful.mp4": {
+      "downloads": {
+        "raw": {
+          "sha1": "0b6448032b0775b57fa94eee85d2aeba713e4199",
+          "size": 3077236,
+          "url": "https://piston-data.mojang.com/v1/objects/0b6448032b0775b57fa94eee85d2aeba713e4199/anim_powerful.mp4"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Movies/Inventory/anim_powerful_ps4.mp4": {
+      "downloads": {
+        "raw": {
+          "sha1": "107039d937e355df662a76d591ecfe6491ffbbb4",
+          "size": 4142259,
+          "url": "https://piston-data.mojang.com/v1/objects/107039d937e355df662a76d591ecfe6491ffbbb4/anim_powerful_ps4.mp4"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Movies/Inventory/anim_purple_active.mp4": {
+      "downloads": {
+        "raw": {
+          "sha1": "4e48e4f878067a3903074c14de41bed3b5d44f6c",
+          "size": 527562,
+          "url": "https://piston-data.mojang.com/v1/objects/4e48e4f878067a3903074c14de41bed3b5d44f6c/anim_purple_active.mp4"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Movies/Inventory/anim_purple_active_ps4.mp4": {
+      "downloads": {
+        "raw": {
+          "sha1": "1dfc5f67e4a47c085e85e8f08373b584156749d8",
+          "size": 685095,
+          "url": "https://piston-data.mojang.com/v1/objects/1dfc5f67e4a47c085e85e8f08373b584156749d8/anim_purple_active_ps4.mp4"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Movies/Postgame": {
+      "type": "directory"
+    },
+    "Dungeons/Content/Movies/Postgame/missionLootChest_anim_1.mp4": {
+      "downloads": {
+        "raw": {
+          "sha1": "071e2488244f83c4afe4387dca96fe5f0e6c301a",
+          "size": 1290883,
+          "url": "https://piston-data.mojang.com/v1/objects/071e2488244f83c4afe4387dca96fe5f0e6c301a/missionLootChest_anim_1.mp4"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Movies/Postgame/missionLootChest_anim_2.mp4": {
+      "downloads": {
+        "raw": {
+          "sha1": "b170651ecbc6f5c53b8eca2f39bea848c0a05f1f",
+          "size": 1901546,
+          "url": "https://piston-data.mojang.com/v1/objects/b170651ecbc6f5c53b8eca2f39bea848c0a05f1f/missionLootChest_anim_2.mp4"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Movies/Postgame/missionLootChest_anim_3.mp4": {
+      "downloads": {
+        "raw": {
+          "sha1": "1b727c1ead00d621fa536cb5aa604d91a47b0b15",
+          "size": 1082897,
+          "url": "https://piston-data.mojang.com/v1/objects/1b727c1ead00d621fa536cb5aa604d91a47b0b15/missionLootChest_anim_3.mp4"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Movies/Postgame/missionLootChest_anim_4.mp4": {
+      "downloads": {
+        "raw": {
+          "sha1": "c4ff24e4183b1d3f327e32cd1ef5877111278be4",
+          "size": 5594829,
+          "url": "https://piston-data.mojang.com/v1/objects/c4ff24e4183b1d3f327e32cd1ef5877111278be4/missionLootChest_anim_4.mp4"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Movies/Postgame/missionLootChest_still.mp4": {
+      "downloads": {
+        "raw": {
+          "sha1": "6ad80f2ae3c862b70d50d92b3a7a65b0da55be02",
+          "size": 76467,
+          "url": "https://piston-data.mojang.com/v1/objects/6ad80f2ae3c862b70d50d92b3a7a65b0da55be02/missionLootChest_still.mp4"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Movies/StatusEffect": {
+      "type": "directory"
+    },
+    "Dungeons/Content/Movies/StatusEffect/invisibility_loop.mp4": {
+      "downloads": {
+        "lzma": {
+          "sha1": "f01fce6968c81f03c5088e53ab01f959d7331573",
+          "size": 165227,
+          "url": "https://piston-data.mojang.com/v1/objects/f01fce6968c81f03c5088e53ab01f959d7331573/invisibility_loop.mp4"
+        },
+        "raw": {
+          "sha1": "5e4c6c72b115232ac938ea4388787963a62fdfd1",
+          "size": 367675,
+          "url": "https://piston-data.mojang.com/v1/objects/5e4c6c72b115232ac938ea4388787963a62fdfd1/invisibility_loop.mp4"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Movies/StatusEffect/regeneration_loop.mp4": {
+      "downloads": {
+        "lzma": {
+          "sha1": "ac2603a67df6a2e78fd0cd54fa0d8ee1973a7d6a",
+          "size": 212398,
+          "url": "https://piston-data.mojang.com/v1/objects/ac2603a67df6a2e78fd0cd54fa0d8ee1973a7d6a/regeneration_loop.mp4"
+        },
+        "raw": {
+          "sha1": "740832b511a31916fa6c6cb0fa9508d69b73e1d9",
+          "size": 310248,
+          "url": "https://piston-data.mojang.com/v1/objects/740832b511a31916fa6c6cb0fa9508d69b73e1d9/regeneration_loop.mp4"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Movies/Victory": {
+      "type": "directory"
+    },
+    "Dungeons/Content/Movies/Victory/victory.mp4": {
+      "downloads": {
+        "raw": {
+          "sha1": "5c68178370e8ded26caf9ff8111c16c65ffef998",
+          "size": 3115575,
+          "url": "https://piston-data.mojang.com/v1/objects/5c68178370e8ded26caf9ff8111c16c65ffef998/victory.mp4"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Movies/Victory/victoryXBOX.mp4": {
+      "downloads": {
+        "raw": {
+          "sha1": "92710ac1b36768195f1709756a31fde92c3b3cc7",
+          "size": 313863,
+          "url": "https://piston-data.mojang.com/v1/objects/92710ac1b36768195f1709756a31fde92c3b3cc7/victoryXBOX.mp4"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Movies/blank_splash720.mp4": {
+      "downloads": {
+        "lzma": {
+          "sha1": "50c342f0e5362f22ed2ff5fa8bb44118d7ed5cf4",
+          "size": 1115,
+          "url": "https://piston-data.mojang.com/v1/objects/50c342f0e5362f22ed2ff5fa8bb44118d7ed5cf4/blank_splash720.mp4"
+        },
+        "raw": {
+          "sha1": "836bb9831037f60ba2e98192bae2a8abc4aa1207",
+          "size": 2367,
+          "url": "https://piston-data.mojang.com/v1/objects/836bb9831037f60ba2e98192bae2a8abc4aa1207/blank_splash720.mp4"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Movies/double11_splash1080.mp4": {
+      "downloads": {
+        "raw": {
+          "sha1": "9c3353e75f3bee094f8bd3f6bac70ead42201eaa",
+          "size": 2741679,
+          "url": "https://piston-data.mojang.com/v1/objects/9c3353e75f3bee094f8bd3f6bac70ead42201eaa/double11_splash1080.mp4"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Movies/double11_splash720.mp4": {
+      "downloads": {
+        "raw": {
+          "sha1": "2c01600f3d1e50a27c92c30a6f6d2c4d99d400b7",
+          "size": 1886207,
+          "url": "https://piston-data.mojang.com/v1/objects/2c01600f3d1e50a27c92c30a6f6d2c4d99d400b7/double11_splash720.mp4"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Movies/dungeons_intro_1080_loop.mp4": {
+      "downloads": {
+        "raw": {
+          "sha1": "1b495b6216fe040fc8f796097ff1aab45ec9c506",
+          "size": 3022708,
+          "url": "https://piston-data.mojang.com/v1/objects/1b495b6216fe040fc8f796097ff1aab45ec9c506/dungeons_intro_1080_loop.mp4"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Movies/dungeons_intro_1080_loop_XBOne.mp4": {
+      "downloads": {
+        "raw": {
+          "sha1": "1b495b6216fe040fc8f796097ff1aab45ec9c506",
+          "size": 3022708,
+          "url": "https://piston-data.mojang.com/v1/objects/1b495b6216fe040fc8f796097ff1aab45ec9c506/dungeons_intro_1080_loop.mp4"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Movies/loader_splash1080.mp4": {
+      "downloads": {
+        "raw": {
+          "sha1": "108ce852885f3cf2010627d63f7ea8bb05c2b6c2",
+          "size": 2254496,
+          "url": "https://piston-data.mojang.com/v1/objects/108ce852885f3cf2010627d63f7ea8bb05c2b6c2/loader_splash1080.mp4"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Movies/loader_splash720.mp4": {
+      "downloads": {
+        "raw": {
+          "sha1": "3105b1eb2c2680f1fa17bc0cea7f78061c2e6aca",
+          "size": 1546239,
+          "url": "https://piston-data.mojang.com/v1/objects/3105b1eb2c2680f1fa17bc0cea7f78061c2e6aca/loader_splash720.mp4"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Movies/microsoft_splash1080.mp4": {
+      "downloads": {
+        "raw": {
+          "sha1": "15ff502e0400f52165a7d9418b11a2a86dbd6871",
+          "size": 3108234,
+          "url": "https://piston-data.mojang.com/v1/objects/15ff502e0400f52165a7d9418b11a2a86dbd6871/microsoft_splash1080.mp4"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Movies/microsoft_splash720.mp4": {
+      "downloads": {
+        "raw": {
+          "sha1": "b255bb92694900047d94918a05728addfe52b626",
+          "size": 2455421,
+          "url": "https://piston-data.mojang.com/v1/objects/b255bb92694900047d94918a05728addfe52b626/microsoft_splash720.mp4"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Movies/mojang_splash1080.mp4": {
+      "downloads": {
+        "raw": {
+          "sha1": "8e68812d8acec03e18bb6bf4e8c8f95557dd397b",
+          "size": 1300321,
+          "url": "https://piston-data.mojang.com/v1/objects/8e68812d8acec03e18bb6bf4e8c8f95557dd397b/mojang_splash1080.mp4"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Movies/mojang_splash720.mp4": {
+      "downloads": {
+        "raw": {
+          "sha1": "3d0809f4b7abd261574ad9be8dab3c162b81b4b5",
+          "size": 964633,
+          "url": "https://piston-data.mojang.com/v1/objects/3d0809f4b7abd261574ad9be8dab3c162b81b4b5/mojang_splash720.mp4"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Movies/unreal_splash1080.mp4": {
+      "downloads": {
+        "raw": {
+          "sha1": "05757a23961157cdf548db4b3da36e65bb38d900",
+          "size": 1584520,
+          "url": "https://piston-data.mojang.com/v1/objects/05757a23961157cdf548db4b3da36e65bb38d900/unreal_splash1080.mp4"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Movies/unreal_splash720.mp4": {
+      "downloads": {
+        "raw": {
+          "sha1": "3705c0609326c029897bec9320a1131b4191419c",
+          "size": 1029123,
+          "url": "https://piston-data.mojang.com/v1/objects/3705c0609326c029897bec9320a1131b4191419c/unreal_splash720.mp4"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Paks": {
+      "type": "directory"
+    },
+    "Dungeons/Content/Paks/pakchunk0-WindowsNoEditor.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "10245a9e982d9b92ef55cc220abdf5ba5b8a8f11",
+          "size": 96477420,
+          "url": "https://piston-data.mojang.com/v1/objects/10245a9e982d9b92ef55cc220abdf5ba5b8a8f11/pakchunk0-WindowsNoEditor.pak"
+        },
+        "raw": {
+          "sha1": "5f1f8bc527f05fa5d99dbc9e90dbe05930302a01",
+          "size": 314552113,
+          "url": "https://piston-data.mojang.com/v1/objects/5f1f8bc527f05fa5d99dbc9e90dbe05930302a01/pakchunk0-WindowsNoEditor.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Paks/pakchunk10-WindowsNoEditor.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "afcf5b5fbf22f91249ce17f823d39fa3ec4dc9bd",
+          "size": 9340781,
+          "url": "https://piston-data.mojang.com/v1/objects/afcf5b5fbf22f91249ce17f823d39fa3ec4dc9bd/pakchunk10-WindowsNoEditor.pak"
+        },
+        "raw": {
+          "sha1": "f55ebf99a58a13e80e025c1f20dc8c677ae1dee2",
+          "size": 83782303,
+          "url": "https://piston-data.mojang.com/v1/objects/f55ebf99a58a13e80e025c1f20dc8c677ae1dee2/pakchunk10-WindowsNoEditor.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Paks/pakchunk11-WindowsNoEditor.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "071db4eee16fbcf38ed7dff325465af1032d4047",
+          "size": 6637949,
+          "url": "https://piston-data.mojang.com/v1/objects/071db4eee16fbcf38ed7dff325465af1032d4047/pakchunk11-WindowsNoEditor.pak"
+        },
+        "raw": {
+          "sha1": "30353cf4f1ba3e67b9bb324084db634b8c87dd6f",
+          "size": 58340318,
+          "url": "https://piston-data.mojang.com/v1/objects/30353cf4f1ba3e67b9bb324084db634b8c87dd6f/pakchunk11-WindowsNoEditor.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Paks/pakchunk12-WindowsNoEditor.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "a5a2aff3e51c9f8585417e11ba54e69698574fb8",
+          "size": 2317850,
+          "url": "https://piston-data.mojang.com/v1/objects/a5a2aff3e51c9f8585417e11ba54e69698574fb8/pakchunk12-WindowsNoEditor.pak"
+        },
+        "raw": {
+          "sha1": "4eaa9d46a16d633babb28d05db7efbc28b7df933",
+          "size": 20504925,
+          "url": "https://piston-data.mojang.com/v1/objects/4eaa9d46a16d633babb28d05db7efbc28b7df933/pakchunk12-WindowsNoEditor.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Paks/pakchunk13-WindowsNoEditor.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "aaedd11ea62448ce2fb29d7af4708f02ba974a12",
+          "size": 4765125,
+          "url": "https://piston-data.mojang.com/v1/objects/aaedd11ea62448ce2fb29d7af4708f02ba974a12/pakchunk13-WindowsNoEditor.pak"
+        },
+        "raw": {
+          "sha1": "f3efc027e9fdaa6a0ab4d7a644a9ef205e420f1e",
+          "size": 82775090,
+          "url": "https://piston-data.mojang.com/v1/objects/f3efc027e9fdaa6a0ab4d7a644a9ef205e420f1e/pakchunk13-WindowsNoEditor.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Paks/pakchunk14-WindowsNoEditor.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "cf65510fb44bd884ecfc6319d38f0dac30aba4d8",
+          "size": 10599531,
+          "url": "https://piston-data.mojang.com/v1/objects/cf65510fb44bd884ecfc6319d38f0dac30aba4d8/pakchunk14-WindowsNoEditor.pak"
+        },
+        "raw": {
+          "sha1": "41424c24a9b09657fdd4d19b013289f44c9b4d35",
+          "size": 23835530,
+          "url": "https://piston-data.mojang.com/v1/objects/41424c24a9b09657fdd4d19b013289f44c9b4d35/pakchunk14-WindowsNoEditor.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Paks/pakchunk15-WindowsNoEditor.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "edeb21436bfdea1b8ed27649afa0e62778d3bc96",
+          "size": 1828118,
+          "url": "https://piston-data.mojang.com/v1/objects/edeb21436bfdea1b8ed27649afa0e62778d3bc96/pakchunk15-WindowsNoEditor.pak"
+        },
+        "raw": {
+          "sha1": "0f1d32973662254bbf828c864fc2f611171fb0aa",
+          "size": 18089102,
+          "url": "https://piston-data.mojang.com/v1/objects/0f1d32973662254bbf828c864fc2f611171fb0aa/pakchunk15-WindowsNoEditor.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Paks/pakchunk16-WindowsNoEditor.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "76116a67ee5033f897f980aea92889787f01fffe",
+          "size": 1966003,
+          "url": "https://piston-data.mojang.com/v1/objects/76116a67ee5033f897f980aea92889787f01fffe/pakchunk16-WindowsNoEditor.pak"
+        },
+        "raw": {
+          "sha1": "fb05926de1531383bbfc5c451e2d24be0d384bbe",
+          "size": 27834611,
+          "url": "https://piston-data.mojang.com/v1/objects/fb05926de1531383bbfc5c451e2d24be0d384bbe/pakchunk16-WindowsNoEditor.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Paks/pakchunk17-WindowsNoEditor.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "bdc21cb2cec5f47b26f65109025c7b3672a57a13",
+          "size": 1840269,
+          "url": "https://piston-data.mojang.com/v1/objects/bdc21cb2cec5f47b26f65109025c7b3672a57a13/pakchunk17-WindowsNoEditor.pak"
+        },
+        "raw": {
+          "sha1": "045dd5a9a6a8b2bd78021e4697463c6e17edba1e",
+          "size": 4957694,
+          "url": "https://piston-data.mojang.com/v1/objects/045dd5a9a6a8b2bd78021e4697463c6e17edba1e/pakchunk17-WindowsNoEditor.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Paks/pakchunk18-WindowsNoEditor.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "21a6bb2f8f6ae337ff84a3823b592c3c12eb7c60",
+          "size": 2530975,
+          "url": "https://piston-data.mojang.com/v1/objects/21a6bb2f8f6ae337ff84a3823b592c3c12eb7c60/pakchunk18-WindowsNoEditor.pak"
+        },
+        "raw": {
+          "sha1": "a39faca4aa178704e9f876dfe1049c4329f34a47",
+          "size": 50288860,
+          "url": "https://piston-data.mojang.com/v1/objects/a39faca4aa178704e9f876dfe1049c4329f34a47/pakchunk18-WindowsNoEditor.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Paks/pakchunk19-WindowsNoEditor.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "4da4ed6ced454112b4551d5d15cac8e6b1830230",
+          "size": 4060181,
+          "url": "https://piston-data.mojang.com/v1/objects/4da4ed6ced454112b4551d5d15cac8e6b1830230/pakchunk19-WindowsNoEditor.pak"
+        },
+        "raw": {
+          "sha1": "61e0ecad831116ff2d3f0ab2d098e23d3c583186",
+          "size": 31185584,
+          "url": "https://piston-data.mojang.com/v1/objects/61e0ecad831116ff2d3f0ab2d098e23d3c583186/pakchunk19-WindowsNoEditor.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Paks/pakchunk20-WindowsNoEditor.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "897de65ea01b288ca36706d9747307a59dc47746",
+          "size": 274542,
+          "url": "https://piston-data.mojang.com/v1/objects/897de65ea01b288ca36706d9747307a59dc47746/pakchunk20-WindowsNoEditor.pak"
+        },
+        "raw": {
+          "sha1": "24117385a749990b3f16740cfb665b258f596680",
+          "size": 6607548,
+          "url": "https://piston-data.mojang.com/v1/objects/24117385a749990b3f16740cfb665b258f596680/pakchunk20-WindowsNoEditor.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Paks/pakchunk21-WindowsNoEditor.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "ef96b29b7accc144927a26d788d05a42d2d398e8",
+          "size": 32515,
+          "url": "https://piston-data.mojang.com/v1/objects/ef96b29b7accc144927a26d788d05a42d2d398e8/pakchunk21-WindowsNoEditor.pak"
+        },
+        "raw": {
+          "sha1": "394210831f9d158fb1057335159d9569e6736ee0",
+          "size": 47193,
+          "url": "https://piston-data.mojang.com/v1/objects/394210831f9d158fb1057335159d9569e6736ee0/pakchunk21-WindowsNoEditor.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Paks/pakchunk23-WindowsNoEditor.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "6ec7c068db5df2e55183bd151b279900ce3ada5b",
+          "size": 10742,
+          "url": "https://piston-data.mojang.com/v1/objects/6ec7c068db5df2e55183bd151b279900ce3ada5b/pakchunk23-WindowsNoEditor.pak"
+        },
+        "raw": {
+          "sha1": "283331faed93785a7b8624122c13b86201a0241b",
+          "size": 67415,
+          "url": "https://piston-data.mojang.com/v1/objects/283331faed93785a7b8624122c13b86201a0241b/pakchunk23-WindowsNoEditor.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Paks/pakchunk24-WindowsNoEditor.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "a97c097d7481326a1096a0ba12c1a898784639ef",
+          "size": 6469329,
+          "url": "https://piston-data.mojang.com/v1/objects/a97c097d7481326a1096a0ba12c1a898784639ef/pakchunk24-WindowsNoEditor.pak"
+        },
+        "raw": {
+          "sha1": "62f51150c36848f3081dc3a70fbe75db456e0fcd",
+          "size": 10677552,
+          "url": "https://piston-data.mojang.com/v1/objects/62f51150c36848f3081dc3a70fbe75db456e0fcd/pakchunk24-WindowsNoEditor.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Paks/pakchunk25-WindowsNoEditor.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "fd4dee885a0e984c50ac5ab3e8034ed4a3a52c83",
+          "size": 4433,
+          "url": "https://piston-data.mojang.com/v1/objects/fd4dee885a0e984c50ac5ab3e8034ed4a3a52c83/pakchunk25-WindowsNoEditor.pak"
+        },
+        "raw": {
+          "sha1": "d2c32f1e0bb84e90a71560fb2197574d209503e4",
+          "size": 36444,
+          "url": "https://piston-data.mojang.com/v1/objects/d2c32f1e0bb84e90a71560fb2197574d209503e4/pakchunk25-WindowsNoEditor.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Paks/pakchunk26-WindowsNoEditor.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "e15f2d7ea64d2234c877a829c74ada09db6d22d3",
+          "size": 5098594,
+          "url": "https://piston-data.mojang.com/v1/objects/e15f2d7ea64d2234c877a829c74ada09db6d22d3/pakchunk26-WindowsNoEditor.pak"
+        },
+        "raw": {
+          "sha1": "bc76eebaa36ffbfd0426ea617cf48f534be86908",
+          "size": 93179890,
+          "url": "https://piston-data.mojang.com/v1/objects/bc76eebaa36ffbfd0426ea617cf48f534be86908/pakchunk26-WindowsNoEditor.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Paks/pakchunk27-WindowsNoEditor.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "e9ab6c12e57f1b8e14c5616bf8a0982560b9cb88",
+          "size": 2434716,
+          "url": "https://piston-data.mojang.com/v1/objects/e9ab6c12e57f1b8e14c5616bf8a0982560b9cb88/pakchunk27-WindowsNoEditor.pak"
+        },
+        "raw": {
+          "sha1": "6cb549ff097f1b51c9cab8f53dc3e077d6e3dcd7",
+          "size": 42037485,
+          "url": "https://piston-data.mojang.com/v1/objects/6cb549ff097f1b51c9cab8f53dc3e077d6e3dcd7/pakchunk27-WindowsNoEditor.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Paks/pakchunk28-WindowsNoEditor.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "44e8c8e18508a7d57444a136e304b35471eb44ec",
+          "size": 757344,
+          "url": "https://piston-data.mojang.com/v1/objects/44e8c8e18508a7d57444a136e304b35471eb44ec/pakchunk28-WindowsNoEditor.pak"
+        },
+        "raw": {
+          "sha1": "bb39e9fef96dda8bed451435d924319f63bee8f3",
+          "size": 22873796,
+          "url": "https://piston-data.mojang.com/v1/objects/bb39e9fef96dda8bed451435d924319f63bee8f3/pakchunk28-WindowsNoEditor.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Paks/pakchunk29-WindowsNoEditor.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "6507dadf1ff521c8946dba8c4069038e97977f99",
+          "size": 5139690,
+          "url": "https://piston-data.mojang.com/v1/objects/6507dadf1ff521c8946dba8c4069038e97977f99/pakchunk29-WindowsNoEditor.pak"
+        },
+        "raw": {
+          "sha1": "8d433d9074ef7b1d42f0568b4f5d0ddc5b7657e9",
+          "size": 56157293,
+          "url": "https://piston-data.mojang.com/v1/objects/8d433d9074ef7b1d42f0568b4f5d0ddc5b7657e9/pakchunk29-WindowsNoEditor.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Paks/pakchunk30-WindowsNoEditor.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "20e06d5d70dc458947261134c19d2bbf75245b8a",
+          "size": 3183097,
+          "url": "https://piston-data.mojang.com/v1/objects/20e06d5d70dc458947261134c19d2bbf75245b8a/pakchunk30-WindowsNoEditor.pak"
+        },
+        "raw": {
+          "sha1": "a7e3d5d0942ac4fbcb9b246e11b35b4e07a49446",
+          "size": 36975229,
+          "url": "https://piston-data.mojang.com/v1/objects/a7e3d5d0942ac4fbcb9b246e11b35b4e07a49446/pakchunk30-WindowsNoEditor.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Paks/pakchunk31-WindowsNoEditor.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "84e735ece1df1c31d5dc7e7e34e2c97512f633d9",
+          "size": 3010850,
+          "url": "https://piston-data.mojang.com/v1/objects/84e735ece1df1c31d5dc7e7e34e2c97512f633d9/pakchunk31-WindowsNoEditor.pak"
+        },
+        "raw": {
+          "sha1": "dcd226ab5d4703ba730d6090d8de3d9f3e33b02d",
+          "size": 39133851,
+          "url": "https://piston-data.mojang.com/v1/objects/dcd226ab5d4703ba730d6090d8de3d9f3e33b02d/pakchunk31-WindowsNoEditor.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Paks/pakchunk32-WindowsNoEditor.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "916ae49e934458646fd5f87662ffaa5085e78de8",
+          "size": 1085902,
+          "url": "https://piston-data.mojang.com/v1/objects/916ae49e934458646fd5f87662ffaa5085e78de8/pakchunk32-WindowsNoEditor.pak"
+        },
+        "raw": {
+          "sha1": "39a949253cb6b73efe95ef5dc802a9adc9ad5316",
+          "size": 33403820,
+          "url": "https://piston-data.mojang.com/v1/objects/39a949253cb6b73efe95ef5dc802a9adc9ad5316/pakchunk32-WindowsNoEditor.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Paks/pakchunk4-WindowsNoEditor.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "ef8a0b73a801341714d0bc6506d940c131a9d487",
+          "size": 214847044,
+          "url": "https://piston-data.mojang.com/v1/objects/ef8a0b73a801341714d0bc6506d940c131a9d487/pakchunk4-WindowsNoEditor.pak"
+        },
+        "raw": {
+          "sha1": "8cbdd87403d3a9b06f84112ded69c906333affad",
+          "size": 688697640,
+          "url": "https://piston-data.mojang.com/v1/objects/8cbdd87403d3a9b06f84112ded69c906333affad/pakchunk4-WindowsNoEditor.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Paks/pakchunk40-WindowsNoEditor.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "4fbadcdd82bfefbb8df447317e6489e1a2de40df",
+          "size": 1171962,
+          "url": "https://piston-data.mojang.com/v1/objects/4fbadcdd82bfefbb8df447317e6489e1a2de40df/pakchunk40-WindowsNoEditor.pak"
+        },
+        "raw": {
+          "sha1": "c4eaa1570a5750e6744f5c20f48f0f0041a1e369",
+          "size": 8337776,
+          "url": "https://piston-data.mojang.com/v1/objects/c4eaa1570a5750e6744f5c20f48f0f0041a1e369/pakchunk40-WindowsNoEditor.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Paks/pakchunk5-WindowsNoEditor.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "a3cb360f724677ca421794381f8764b36d521db5",
+          "size": 739127,
+          "url": "https://piston-data.mojang.com/v1/objects/a3cb360f724677ca421794381f8764b36d521db5/pakchunk5-WindowsNoEditor.pak"
+        },
+        "raw": {
+          "sha1": "190b490112a5122d89ec4036ff10efc42e5c9e5a",
+          "size": 23828780,
+          "url": "https://piston-data.mojang.com/v1/objects/190b490112a5122d89ec4036ff10efc42e5c9e5a/pakchunk5-WindowsNoEditor.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Paks/pakchunk50-WindowsNoEditor.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "27e75b8bcb2f9a6a444ef815330cfd4a6df3dd71",
+          "size": 19724256,
+          "url": "https://piston-data.mojang.com/v1/objects/27e75b8bcb2f9a6a444ef815330cfd4a6df3dd71/pakchunk50-WindowsNoEditor.pak"
+        },
+        "raw": {
+          "sha1": "7546615a2d662efede01f545918b0da69fcd3a3a",
+          "size": 134268165,
+          "url": "https://piston-data.mojang.com/v1/objects/7546615a2d662efede01f545918b0da69fcd3a3a/pakchunk50-WindowsNoEditor.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Paks/pakchunk70-WindowsNoEditor.pak": {
+      "downloads": {
+        "raw": {
+          "sha1": "ca85920c9a831bf4a2280ad3d55b238ed33026e8",
+          "size": 236009945,
+          "url": "https://piston-data.mojang.com/v1/objects/ca85920c9a831bf4a2280ad3d55b238ed33026e8/pakchunk70-WindowsNoEditor.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Dungeons/Content/Paks/pakchunk9-WindowsNoEditor.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "de74304819c4f989d55415acd6dbdf9fc0c69bfe",
+          "size": 21931636,
+          "url": "https://piston-data.mojang.com/v1/objects/de74304819c4f989d55415acd6dbdf9fc0c69bfe/pakchunk9-WindowsNoEditor.pak"
+        },
+        "raw": {
+          "sha1": "4a3e8789ae845fdc745a0db90bc6d024f8bf6770",
+          "size": 80967332,
+          "url": "https://piston-data.mojang.com/v1/objects/4a3e8789ae845fdc745a0db90bc6d024f8bf6770/pakchunk9-WindowsNoEditor.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine": {
+      "type": "directory"
+    },
+    "Engine/Binaries": {
+      "type": "directory"
+    },
+    "Engine/Binaries/ThirdParty": {
+      "type": "directory"
+    },
+    "Engine/Binaries/ThirdParty/CEF3": {
+      "type": "directory"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64": {
+      "type": "directory"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources": {
+      "type": "directory"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/cef.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "b2b318938aeb58a739cf82143eb03b4a17276d6c",
+          "size": 1741150,
+          "url": "https://piston-data.mojang.com/v1/objects/b2b318938aeb58a739cf82143eb03b4a17276d6c/cef.pak"
+        },
+        "raw": {
+          "sha1": "09860da38fc611688c652ed45321ec4fc921a916",
+          "size": 6003861,
+          "url": "https://piston-data.mojang.com/v1/objects/09860da38fc611688c652ed45321ec4fc921a916/cef.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/cef_100_percent.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "5e295a818e30b6661dbb160766e2b155a35319df",
+          "size": 136056,
+          "url": "https://piston-data.mojang.com/v1/objects/5e295a818e30b6661dbb160766e2b155a35319df/cef_100_percent.pak"
+        },
+        "raw": {
+          "sha1": "e8388ab1706527241ec9ffd60a6438456bb2f7d6",
+          "size": 279905,
+          "url": "https://piston-data.mojang.com/v1/objects/e8388ab1706527241ec9ffd60a6438456bb2f7d6/cef_100_percent.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/cef_200_percent.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "06b2bd093cc1e34d140f9eb73ba1d6a3b958bcd2",
+          "size": 241708,
+          "url": "https://piston-data.mojang.com/v1/objects/06b2bd093cc1e34d140f9eb73ba1d6a3b958bcd2/cef_200_percent.pak"
+        },
+        "raw": {
+          "sha1": "22719c8a2ce54c0ab25d3e738f10193c065601f9",
+          "size": 386884,
+          "url": "https://piston-data.mojang.com/v1/objects/22719c8a2ce54c0ab25d3e738f10193c065601f9/cef_200_percent.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/cef_extensions.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "aef3e9e46e24fa8ec56cf4df218ae1a4a7471181",
+          "size": 800506,
+          "url": "https://piston-data.mojang.com/v1/objects/aef3e9e46e24fa8ec56cf4df218ae1a4a7471181/cef_extensions.pak"
+        },
+        "raw": {
+          "sha1": "e696bdf5c77bcef7faeffc5f6abdb7b6412722b8",
+          "size": 3565138,
+          "url": "https://piston-data.mojang.com/v1/objects/e696bdf5c77bcef7faeffc5f6abdb7b6412722b8/cef_extensions.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/devtools_resources.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "962e85d4d1c5fcb4b5594b6a49b1fe4bb94c8b32",
+          "size": 883736,
+          "url": "https://piston-data.mojang.com/v1/objects/962e85d4d1c5fcb4b5594b6a49b1fe4bb94c8b32/devtools_resources.pak"
+        },
+        "raw": {
+          "sha1": "79d4dd194620af3cc05c25e35658898c4d3aede6",
+          "size": 5183550,
+          "url": "https://piston-data.mojang.com/v1/objects/79d4dd194620af3cc05c25e35658898c4d3aede6/devtools_resources.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales": {
+      "type": "directory"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/am.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "0023bfb0a388d1d1186d828a5cd283f9361e0432",
+          "size": 59374,
+          "url": "https://piston-data.mojang.com/v1/objects/0023bfb0a388d1d1186d828a5cd283f9361e0432/am.pak"
+        },
+        "raw": {
+          "sha1": "4069667e38d4ad0ad321a73270d46bd5716acf27",
+          "size": 317735,
+          "url": "https://piston-data.mojang.com/v1/objects/4069667e38d4ad0ad321a73270d46bd5716acf27/am.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ar.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "ca33eba5a72ff24655a085c2c5b3683c437f4ff6",
+          "size": 57393,
+          "url": "https://piston-data.mojang.com/v1/objects/ca33eba5a72ff24655a085c2c5b3683c437f4ff6/ar.pak"
+        },
+        "raw": {
+          "sha1": "cc8e08e39756afc2bcd8adc302bc294c209698a9",
+          "size": 314031,
+          "url": "https://piston-data.mojang.com/v1/objects/cc8e08e39756afc2bcd8adc302bc294c209698a9/ar.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/bg.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "4e9a6c2bf712e12f4c1ea96db86713319b9ac7e7",
+          "size": 59292,
+          "url": "https://piston-data.mojang.com/v1/objects/4e9a6c2bf712e12f4c1ea96db86713319b9ac7e7/bg.pak"
+        },
+        "raw": {
+          "sha1": "93869eb340ec76808fbd699758c8bfb8584aef71",
+          "size": 366595,
+          "url": "https://piston-data.mojang.com/v1/objects/93869eb340ec76808fbd699758c8bfb8584aef71/bg.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/bn.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "cc15ef9f2cb3c95ec0e9b5199bb75f57d0c9023e",
+          "size": 62235,
+          "url": "https://piston-data.mojang.com/v1/objects/cc15ef9f2cb3c95ec0e9b5199bb75f57d0c9023e/bn.pak"
+        },
+        "raw": {
+          "sha1": "5418bec4b7ed85d5c329270dde2b3c3209f8c51f",
+          "size": 478939,
+          "url": "https://piston-data.mojang.com/v1/objects/5418bec4b7ed85d5c329270dde2b3c3209f8c51f/bn.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ca.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "4724da501692867e620555b4ff615f968e55d7f0",
+          "size": 54047,
+          "url": "https://piston-data.mojang.com/v1/objects/4724da501692867e620555b4ff615f968e55d7f0/ca.pak"
+        },
+        "raw": {
+          "sha1": "839139eef50da8d0ea4c9256c4af1a8c4d272023",
+          "size": 228122,
+          "url": "https://piston-data.mojang.com/v1/objects/839139eef50da8d0ea4c9256c4af1a8c4d272023/ca.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/cs.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "1c2cf0371110627e93932d436ef507115ec37e9c",
+          "size": 57724,
+          "url": "https://piston-data.mojang.com/v1/objects/1c2cf0371110627e93932d436ef507115ec37e9c/cs.pak"
+        },
+        "raw": {
+          "sha1": "1e737803a1198f9a7d0b33190344b68c2535c648",
+          "size": 231572,
+          "url": "https://piston-data.mojang.com/v1/objects/1e737803a1198f9a7d0b33190344b68c2535c648/cs.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/da.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "0356da7a648e0fef453b1288d96a118f15d25a6b",
+          "size": 52066,
+          "url": "https://piston-data.mojang.com/v1/objects/0356da7a648e0fef453b1288d96a118f15d25a6b/da.pak"
+        },
+        "raw": {
+          "sha1": "ec14f1bbdcab73b9554ea170fa79b1df93d25374",
+          "size": 207739,
+          "url": "https://piston-data.mojang.com/v1/objects/ec14f1bbdcab73b9554ea170fa79b1df93d25374/da.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/de.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "9e70e0f8d1fdc4364072839d4ecf3c86d12c9d87",
+          "size": 54680,
+          "url": "https://piston-data.mojang.com/v1/objects/9e70e0f8d1fdc4364072839d4ecf3c86d12c9d87/de.pak"
+        },
+        "raw": {
+          "sha1": "ea02b8388c8cae94a6708cd0e1775fe8346d39e5",
+          "size": 226211,
+          "url": "https://piston-data.mojang.com/v1/objects/ea02b8388c8cae94a6708cd0e1775fe8346d39e5/de.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/el.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "7668ddd83d01844c00ee08cf9451919a25830fc0",
+          "size": 63039,
+          "url": "https://piston-data.mojang.com/v1/objects/7668ddd83d01844c00ee08cf9451919a25830fc0/el.pak"
+        },
+        "raw": {
+          "sha1": "bb72ef57660979cd5463c0f93df2193fa2b7b91d",
+          "size": 402687,
+          "url": "https://piston-data.mojang.com/v1/objects/bb72ef57660979cd5463c0f93df2193fa2b7b91d/el.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/en-GB.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "82cf9792b8f7ae811fd28a3728c1322d8a9e2f1e",
+          "size": 48326,
+          "url": "https://piston-data.mojang.com/v1/objects/82cf9792b8f7ae811fd28a3728c1322d8a9e2f1e/en-GB.pak"
+        },
+        "raw": {
+          "sha1": "c86a842b26b0e2782bdbe52ca1caf9c28411a242",
+          "size": 186958,
+          "url": "https://piston-data.mojang.com/v1/objects/c86a842b26b0e2782bdbe52ca1caf9c28411a242/en-GB.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/en-US.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "9cb8b8004699fa956938298cacee0d886addacd5",
+          "size": 48185,
+          "url": "https://piston-data.mojang.com/v1/objects/9cb8b8004699fa956938298cacee0d886addacd5/en-US.pak"
+        },
+        "raw": {
+          "sha1": "38f551b8cef2a71611715cf2e6c84084d04d2207",
+          "size": 186991,
+          "url": "https://piston-data.mojang.com/v1/objects/38f551b8cef2a71611715cf2e6c84084d04d2207/en-US.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/es-419.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "7e8438e9e4896a29c16fde1960e3418cab803677",
+          "size": 53714,
+          "url": "https://piston-data.mojang.com/v1/objects/7e8438e9e4896a29c16fde1960e3418cab803677/es-419.pak"
+        },
+        "raw": {
+          "sha1": "04e8c3d0f5f74e3bda22635e1c3fa60d524ce8e8",
+          "size": 224532,
+          "url": "https://piston-data.mojang.com/v1/objects/04e8c3d0f5f74e3bda22635e1c3fa60d524ce8e8/es-419.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/es.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "1ab02438b5179fdf0b52bd2277194d5f3fcb0a26",
+          "size": 53422,
+          "url": "https://piston-data.mojang.com/v1/objects/1ab02438b5179fdf0b52bd2277194d5f3fcb0a26/es.pak"
+        },
+        "raw": {
+          "sha1": "0004e5d291d01eb7a62fbccb096faf5da252826e",
+          "size": 228808,
+          "url": "https://piston-data.mojang.com/v1/objects/0004e5d291d01eb7a62fbccb096faf5da252826e/es.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/et.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "7163616c85c8d644dbfcfa11199f6a885d955266",
+          "size": 53283,
+          "url": "https://piston-data.mojang.com/v1/objects/7163616c85c8d644dbfcfa11199f6a885d955266/et.pak"
+        },
+        "raw": {
+          "sha1": "626d7f870a0fca39f76108e8c5e890d658584cff",
+          "size": 202214,
+          "url": "https://piston-data.mojang.com/v1/objects/626d7f870a0fca39f76108e8c5e890d658584cff/et.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/fa.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "15164601e2b9053f98fd3278de590d09d575e92e",
+          "size": 57739,
+          "url": "https://piston-data.mojang.com/v1/objects/15164601e2b9053f98fd3278de590d09d575e92e/fa.pak"
+        },
+        "raw": {
+          "sha1": "c319af2f999b9d1055778e5eb130ed78ba8e9ef5",
+          "size": 321134,
+          "url": "https://piston-data.mojang.com/v1/objects/c319af2f999b9d1055778e5eb130ed78ba8e9ef5/fa.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/fi.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "6ac9e1350650a2930f44ef0bf6e7e542283836da",
+          "size": 53371,
+          "url": "https://piston-data.mojang.com/v1/objects/6ac9e1350650a2930f44ef0bf6e7e542283836da/fi.pak"
+        },
+        "raw": {
+          "sha1": "c51ce55cfe799eb00a98f45e6b5c2c6228838b14",
+          "size": 211980,
+          "url": "https://piston-data.mojang.com/v1/objects/c51ce55cfe799eb00a98f45e6b5c2c6228838b14/fi.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/fil.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "578d4b9d4614a53c274e5070f7c8e30bc5c04b78",
+          "size": 53772,
+          "url": "https://piston-data.mojang.com/v1/objects/578d4b9d4614a53c274e5070f7c8e30bc5c04b78/fil.pak"
+        },
+        "raw": {
+          "sha1": "eed57448d5377a73d8db885198655f9b83885c9a",
+          "size": 232070,
+          "url": "https://piston-data.mojang.com/v1/objects/eed57448d5377a73d8db885198655f9b83885c9a/fil.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/fr.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "6ea0eff83456cf370fc757dde79502a7a0ea2276",
+          "size": 55938,
+          "url": "https://piston-data.mojang.com/v1/objects/6ea0eff83456cf370fc757dde79502a7a0ea2276/fr.pak"
+        },
+        "raw": {
+          "sha1": "a8cfc3b5209709265ff143a258d13d375f9cd571",
+          "size": 243625,
+          "url": "https://piston-data.mojang.com/v1/objects/a8cfc3b5209709265ff143a258d13d375f9cd571/fr.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/gu.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "b493f50f03e31b7b000f5c5e89731740a8a1f322",
+          "size": 59983,
+          "url": "https://piston-data.mojang.com/v1/objects/b493f50f03e31b7b000f5c5e89731740a8a1f322/gu.pak"
+        },
+        "raw": {
+          "sha1": "d593dcdbd68c098aabe6f5450d06d22ccea535f9",
+          "size": 451818,
+          "url": "https://piston-data.mojang.com/v1/objects/d593dcdbd68c098aabe6f5450d06d22ccea535f9/gu.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/he.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "b24d0981c59dae90391693b16b962fbc9359eabc",
+          "size": 54158,
+          "url": "https://piston-data.mojang.com/v1/objects/b24d0981c59dae90391693b16b962fbc9359eabc/he.pak"
+        },
+        "raw": {
+          "sha1": "e09d401a63bc336898b7630bac005173f4880df6",
+          "size": 265463,
+          "url": "https://piston-data.mojang.com/v1/objects/e09d401a63bc336898b7630bac005173f4880df6/he.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/hi.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "22edc503003a6bbca5c6af5121b9d4812f54b81f",
+          "size": 60682,
+          "url": "https://piston-data.mojang.com/v1/objects/22edc503003a6bbca5c6af5121b9d4812f54b81f/hi.pak"
+        },
+        "raw": {
+          "sha1": "2583dd248ee4a8cd049d2c92ce380266776f5a7b",
+          "size": 460810,
+          "url": "https://piston-data.mojang.com/v1/objects/2583dd248ee4a8cd049d2c92ce380266776f5a7b/hi.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/hr.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "c2757204931c862a63d68d751623a5a936e4734f",
+          "size": 55305,
+          "url": "https://piston-data.mojang.com/v1/objects/c2757204931c862a63d68d751623a5a936e4734f/hr.pak"
+        },
+        "raw": {
+          "sha1": "8aed07f7d91b555c6470a22d61f97ef5ab88b02d",
+          "size": 217428,
+          "url": "https://piston-data.mojang.com/v1/objects/8aed07f7d91b555c6470a22d61f97ef5ab88b02d/hr.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/hu.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "f0a36d82b78232710b8536a562145af7636f5a81",
+          "size": 58052,
+          "url": "https://piston-data.mojang.com/v1/objects/f0a36d82b78232710b8536a562145af7636f5a81/hu.pak"
+        },
+        "raw": {
+          "sha1": "f4d55ebf3427763ea64a0219c3f45dbb9a060477",
+          "size": 239083,
+          "url": "https://piston-data.mojang.com/v1/objects/f4d55ebf3427763ea64a0219c3f45dbb9a060477/hu.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/id.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "d18ab69ea9592a95773bd7eb7017da250bb46196",
+          "size": 49264,
+          "url": "https://piston-data.mojang.com/v1/objects/d18ab69ea9592a95773bd7eb7017da250bb46196/id.pak"
+        },
+        "raw": {
+          "sha1": "497ac15ea718f731651faf4e1bcf3bfbc8865728",
+          "size": 201977,
+          "url": "https://piston-data.mojang.com/v1/objects/497ac15ea718f731651faf4e1bcf3bfbc8865728/id.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/it.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "d872d98252d07c4cd56df6b959b40727153eb1e3",
+          "size": 52439,
+          "url": "https://piston-data.mojang.com/v1/objects/d872d98252d07c4cd56df6b959b40727153eb1e3/it.pak"
+        },
+        "raw": {
+          "sha1": "5a05b94e3aef757e2a7e66a7a5af349eabb496be",
+          "size": 220397,
+          "url": "https://piston-data.mojang.com/v1/objects/5a05b94e3aef757e2a7e66a7a5af349eabb496be/it.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ja.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "c7a24b18646bd1d574ac76876c2a0c0172a495ea",
+          "size": 52074,
+          "url": "https://piston-data.mojang.com/v1/objects/c7a24b18646bd1d574ac76876c2a0c0172a495ea/ja.pak"
+        },
+        "raw": {
+          "sha1": "fb02e23300a8118499391a1216bd207ba56a8066",
+          "size": 270807,
+          "url": "https://piston-data.mojang.com/v1/objects/fb02e23300a8118499391a1216bd207ba56a8066/ja.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/kn.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "7be17ce9f739280cac4eaa3dc1c123609c5f51ed",
+          "size": 62512,
+          "url": "https://piston-data.mojang.com/v1/objects/7be17ce9f739280cac4eaa3dc1c123609c5f51ed/kn.pak"
+        },
+        "raw": {
+          "sha1": "ff6ce9f9c053c34e4ec229cdf7ec98b706799df4",
+          "size": 519415,
+          "url": "https://piston-data.mojang.com/v1/objects/ff6ce9f9c053c34e4ec229cdf7ec98b706799df4/kn.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ko.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "b365e0f8837548785155723895736ab09ad9d8a5",
+          "size": 49943,
+          "url": "https://piston-data.mojang.com/v1/objects/b365e0f8837548785155723895736ab09ad9d8a5/ko.pak"
+        },
+        "raw": {
+          "sha1": "aa198ac1fa3f4afd7c1b669e3816f52b43ed7b97",
+          "size": 230850,
+          "url": "https://piston-data.mojang.com/v1/objects/aa198ac1fa3f4afd7c1b669e3816f52b43ed7b97/ko.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/lt.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "1939c0e6677ffb51eba4337bd699b1177e2adf75",
+          "size": 56018,
+          "url": "https://piston-data.mojang.com/v1/objects/1939c0e6677ffb51eba4337bd699b1177e2adf75/lt.pak"
+        },
+        "raw": {
+          "sha1": "d934d481fa605a24cc4f75bf11725f7fecc885b7",
+          "size": 234416,
+          "url": "https://piston-data.mojang.com/v1/objects/d934d481fa605a24cc4f75bf11725f7fecc885b7/lt.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/lv.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "3272a897ee767e668365f58302d40e7806e309c9",
+          "size": 56204,
+          "url": "https://piston-data.mojang.com/v1/objects/3272a897ee767e668365f58302d40e7806e309c9/lv.pak"
+        },
+        "raw": {
+          "sha1": "7474505a170fe166f2a361d903df403779ebf340",
+          "size": 234204,
+          "url": "https://piston-data.mojang.com/v1/objects/7474505a170fe166f2a361d903df403779ebf340/lv.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ml.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "dd384b3e15ead2170b15e8c7cab6a666e72fcf0f",
+          "size": 65584,
+          "url": "https://piston-data.mojang.com/v1/objects/dd384b3e15ead2170b15e8c7cab6a666e72fcf0f/ml.pak"
+        },
+        "raw": {
+          "sha1": "f0dab2e081e4cb137e5943d4cb98cbd50b02b58d",
+          "size": 567612,
+          "url": "https://piston-data.mojang.com/v1/objects/f0dab2e081e4cb137e5943d4cb98cbd50b02b58d/ml.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/mr.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "fcfcf9163a2704f785f18af7cdbfd138bcd13378",
+          "size": 59681,
+          "url": "https://piston-data.mojang.com/v1/objects/fcfcf9163a2704f785f18af7cdbfd138bcd13378/mr.pak"
+        },
+        "raw": {
+          "sha1": "438a7afeda7513fe7380b09b21c23c03d829abb6",
+          "size": 456368,
+          "url": "https://piston-data.mojang.com/v1/objects/438a7afeda7513fe7380b09b21c23c03d829abb6/mr.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ms.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "b5d82643289bb1b8d35b239db59769b332d12a0b",
+          "size": 49805,
+          "url": "https://piston-data.mojang.com/v1/objects/b5d82643289bb1b8d35b239db59769b332d12a0b/ms.pak"
+        },
+        "raw": {
+          "sha1": "85e632b94271cb0335b1562ac3dc94f549feacc7",
+          "size": 208619,
+          "url": "https://piston-data.mojang.com/v1/objects/85e632b94271cb0335b1562ac3dc94f549feacc7/ms.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/nb.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "a1c3bca02122b29263f5e37db18483060418b57a",
+          "size": 51952,
+          "url": "https://piston-data.mojang.com/v1/objects/a1c3bca02122b29263f5e37db18483060418b57a/nb.pak"
+        },
+        "raw": {
+          "sha1": "061ebe095829a7d2fc0850ca0cdb8eefc49853cf",
+          "size": 205047,
+          "url": "https://piston-data.mojang.com/v1/objects/061ebe095829a7d2fc0850ca0cdb8eefc49853cf/nb.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/nl.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "550ff9f2f2c987810d13af72dc5be6d5dabb1845",
+          "size": 52488,
+          "url": "https://piston-data.mojang.com/v1/objects/550ff9f2f2c987810d13af72dc5be6d5dabb1845/nl.pak"
+        },
+        "raw": {
+          "sha1": "fb01977693511bb455c292eccb3bed0d467e7594",
+          "size": 215699,
+          "url": "https://piston-data.mojang.com/v1/objects/fb01977693511bb455c292eccb3bed0d467e7594/nl.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/pl.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "bb865efa65c9a6cf4dd98b874faf573a113f5370",
+          "size": 56488,
+          "url": "https://piston-data.mojang.com/v1/objects/bb865efa65c9a6cf4dd98b874faf573a113f5370/pl.pak"
+        },
+        "raw": {
+          "sha1": "aa99ba5945a5892d8c37c58405880c5f25b3bb9f",
+          "size": 225555,
+          "url": "https://piston-data.mojang.com/v1/objects/aa99ba5945a5892d8c37c58405880c5f25b3bb9f/pl.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/pt-BR.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "b88cc651b07adc93fee4200e319521fee835663e",
+          "size": 53235,
+          "url": "https://piston-data.mojang.com/v1/objects/b88cc651b07adc93fee4200e319521fee835663e/pt-BR.pak"
+        },
+        "raw": {
+          "sha1": "f62f0d98f8b1d7530413574a0fbc0f58e5f0a1f5",
+          "size": 221133,
+          "url": "https://piston-data.mojang.com/v1/objects/f62f0d98f8b1d7530413574a0fbc0f58e5f0a1f5/pt-BR.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/pt-PT.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "bc0e11584271294af4a9cc773412f1b0bbac36f7",
+          "size": 53038,
+          "url": "https://piston-data.mojang.com/v1/objects/bc0e11584271294af4a9cc773412f1b0bbac36f7/pt-PT.pak"
+        },
+        "raw": {
+          "sha1": "fea703826966e59009fde62b38d613bff23b75af",
+          "size": 223472,
+          "url": "https://piston-data.mojang.com/v1/objects/fea703826966e59009fde62b38d613bff23b75af/pt-PT.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ro.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "3dcad47be3611c5ed417a1f53b100969561683fc",
+          "size": 54781,
+          "url": "https://piston-data.mojang.com/v1/objects/3dcad47be3611c5ed417a1f53b100969561683fc/ro.pak"
+        },
+        "raw": {
+          "sha1": "47e2fa3dbe1725252b78fccff6c58da63300ff09",
+          "size": 229091,
+          "url": "https://piston-data.mojang.com/v1/objects/47e2fa3dbe1725252b78fccff6c58da63300ff09/ro.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ru.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "949576eb48310a72e266b0474a83479f63691e73",
+          "size": 59820,
+          "url": "https://piston-data.mojang.com/v1/objects/949576eb48310a72e266b0474a83479f63691e73/ru.pak"
+        },
+        "raw": {
+          "sha1": "67f7a2fc2cb44ccb9405d836021297079c33f3c6",
+          "size": 351003,
+          "url": "https://piston-data.mojang.com/v1/objects/67f7a2fc2cb44ccb9405d836021297079c33f3c6/ru.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/sk.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "906dfc0fd5eee21139af901a7282393260164da6",
+          "size": 58557,
+          "url": "https://piston-data.mojang.com/v1/objects/906dfc0fd5eee21139af901a7282393260164da6/sk.pak"
+        },
+        "raw": {
+          "sha1": "4aebd597e3bee8d4ee193b4e1bc5c976500def6a",
+          "size": 237218,
+          "url": "https://piston-data.mojang.com/v1/objects/4aebd597e3bee8d4ee193b4e1bc5c976500def6a/sk.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/sl.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "7a082a708a29cc5f175f3e74d25436988cd83c11",
+          "size": 54465,
+          "url": "https://piston-data.mojang.com/v1/objects/7a082a708a29cc5f175f3e74d25436988cd83c11/sl.pak"
+        },
+        "raw": {
+          "sha1": "90a7ac3a1505297173a3c3d1d4f4d6e0b433b4cb",
+          "size": 217919,
+          "url": "https://piston-data.mojang.com/v1/objects/90a7ac3a1505297173a3c3d1d4f4d6e0b433b4cb/sl.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/sr.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "5af59619f423fcf9aaedf0f3c89ec664842fd300",
+          "size": 59003,
+          "url": "https://piston-data.mojang.com/v1/objects/5af59619f423fcf9aaedf0f3c89ec664842fd300/sr.pak"
+        },
+        "raw": {
+          "sha1": "a91d696972216126a4ea1818d4801edc4ea62cb9",
+          "size": 341731,
+          "url": "https://piston-data.mojang.com/v1/objects/a91d696972216126a4ea1818d4801edc4ea62cb9/sr.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/sv.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "562d78364b424675f8d5660eb1454fe2820044d6",
+          "size": 51870,
+          "url": "https://piston-data.mojang.com/v1/objects/562d78364b424675f8d5660eb1454fe2820044d6/sv.pak"
+        },
+        "raw": {
+          "sha1": "5fbe187acf08532a74d628086e05a7b10e24677d",
+          "size": 206145,
+          "url": "https://piston-data.mojang.com/v1/objects/5fbe187acf08532a74d628086e05a7b10e24677d/sv.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/sw.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "58ca0483088c0b536b43db5760d1a40281e31d62",
+          "size": 52375,
+          "url": "https://piston-data.mojang.com/v1/objects/58ca0483088c0b536b43db5760d1a40281e31d62/sw.pak"
+        },
+        "raw": {
+          "sha1": "27284a302e4109d154bf64a1f927193235dc42f1",
+          "size": 209319,
+          "url": "https://piston-data.mojang.com/v1/objects/27284a302e4109d154bf64a1f927193235dc42f1/sw.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ta.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "052d8beb0116a779fc2fe29c27eaa6cde177e07b",
+          "size": 61125,
+          "url": "https://piston-data.mojang.com/v1/objects/052d8beb0116a779fc2fe29c27eaa6cde177e07b/ta.pak"
+        },
+        "raw": {
+          "sha1": "db15c2209178576dd50ed5f4a8a71fed0333f668",
+          "size": 527387,
+          "url": "https://piston-data.mojang.com/v1/objects/db15c2209178576dd50ed5f4a8a71fed0333f668/ta.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/te.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "4a0ac3ba05ed066a9527a3e9127bcab5c8c57044",
+          "size": 60820,
+          "url": "https://piston-data.mojang.com/v1/objects/4a0ac3ba05ed066a9527a3e9127bcab5c8c57044/te.pak"
+        },
+        "raw": {
+          "sha1": "ab43518329713f2d25d202f16850e016257af59b",
+          "size": 503299,
+          "url": "https://piston-data.mojang.com/v1/objects/ab43518329713f2d25d202f16850e016257af59b/te.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/th.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "a1c7f425a36643d90bc122cd8321fe0f7c257ac5",
+          "size": 55269,
+          "url": "https://piston-data.mojang.com/v1/objects/a1c7f425a36643d90bc122cd8321fe0f7c257ac5/th.pak"
+        },
+        "raw": {
+          "sha1": "752ab6240ac4fe458cb5b4d026fa5d28af4a55d4",
+          "size": 438108,
+          "url": "https://piston-data.mojang.com/v1/objects/752ab6240ac4fe458cb5b4d026fa5d28af4a55d4/th.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/tr.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "d1120a548ebcfc1e11cf860d108062efe8abd1e7",
+          "size": 54073,
+          "url": "https://piston-data.mojang.com/v1/objects/d1120a548ebcfc1e11cf860d108062efe8abd1e7/tr.pak"
+        },
+        "raw": {
+          "sha1": "bd63d0148fa0d23ed99f56b0606f89963580aba6",
+          "size": 221774,
+          "url": "https://piston-data.mojang.com/v1/objects/bd63d0148fa0d23ed99f56b0606f89963580aba6/tr.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/uk.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "52f40cb3dcd34d57b10f5f3abd0c7d5a5f8eed41",
+          "size": 59687,
+          "url": "https://piston-data.mojang.com/v1/objects/52f40cb3dcd34d57b10f5f3abd0c7d5a5f8eed41/uk.pak"
+        },
+        "raw": {
+          "sha1": "50369beae21528851a6135236376aac267ee3755",
+          "size": 358245,
+          "url": "https://piston-data.mojang.com/v1/objects/50369beae21528851a6135236376aac267ee3755/uk.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/vi.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "3b1994de8f11055cc77640ef38008c1c16bac3db",
+          "size": 51896,
+          "url": "https://piston-data.mojang.com/v1/objects/3b1994de8f11055cc77640ef38008c1c16bac3db/vi.pak"
+        },
+        "raw": {
+          "sha1": "7fef540f25f6d0dc951f58378d7a6cc8299c2a60",
+          "size": 254300,
+          "url": "https://piston-data.mojang.com/v1/objects/7fef540f25f6d0dc951f58378d7a6cc8299c2a60/vi.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/zh-CN.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "70c9c5ab6ef63046ab563d220cfc617ff60fc1ca",
+          "size": 49393,
+          "url": "https://piston-data.mojang.com/v1/objects/70c9c5ab6ef63046ab563d220cfc617ff60fc1ca/zh-CN.pak"
+        },
+        "raw": {
+          "sha1": "c1a453f9544302360d20cbce040a6a13e8816927",
+          "size": 190714,
+          "url": "https://piston-data.mojang.com/v1/objects/c1a453f9544302360d20cbce040a6a13e8816927/zh-CN.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/zh-TW.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "7ee541b22aaeaad146b102cbb64065a5f1a1f4d5",
+          "size": 49411,
+          "url": "https://piston-data.mojang.com/v1/objects/7ee541b22aaeaad146b102cbb64065a5f1a1f4d5/zh-TW.pak"
+        },
+        "raw": {
+          "sha1": "948565177ceda048e6d6a8a229b37e640de37015",
+          "size": 192079,
+          "url": "https://piston-data.mojang.com/v1/objects/948565177ceda048e6d6a8a229b37e640de37015/zh-TW.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/chrome_elf.dll": {
+      "downloads": {
+        "lzma": {
+          "sha1": "8d62238070acccfe6082c644c515de950c21c898",
+          "size": 223276,
+          "url": "https://piston-data.mojang.com/v1/objects/8d62238070acccfe6082c644c515de950c21c898/chrome_elf.dll"
+        },
+        "raw": {
+          "sha1": "31891613416d61551d04b603a77fd8776d316b7b",
+          "size": 547840,
+          "url": "https://piston-data.mojang.com/v1/objects/31891613416d61551d04b603a77fd8776d316b7b/chrome_elf.dll"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/d3dcompiler_43.dll": {
+      "downloads": {
+        "lzma": {
+          "sha1": "3009b45a36f90e8636a3f2158f374da6ad042048",
+          "size": 742548,
+          "url": "https://launcher.mojang.com/v1/objects/3009b45a36f90e8636a3f2158f374da6ad042048/d3dcompiler_43.dll"
+        },
+        "raw": {
+          "sha1": "98be17e1d324790a5b206e1ea1cc4e64fbe21240",
+          "size": 2106216,
+          "url": "https://launcher.mojang.com/v1/objects/98be17e1d324790a5b206e1ea1cc4e64fbe21240/d3dcompiler_43.dll"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/d3dcompiler_47.dll": {
+      "downloads": {
+        "lzma": {
+          "sha1": "a9f0194b54110a97a493fc5aa659b1f0399e75b0",
+          "size": 1484092,
+          "url": "https://piston-data.mojang.com/v1/objects/a9f0194b54110a97a493fc5aa659b1f0399e75b0/d3dcompiler_47.dll"
+        },
+        "raw": {
+          "sha1": "876eb1d947d9fdf00da3f07ce1fa5499cb24f49d",
+          "size": 4488904,
+          "url": "https://piston-data.mojang.com/v1/objects/876eb1d947d9fdf00da3f07ce1fa5499cb24f49d/d3dcompiler_47.dll"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/icudtl.dat": {
+      "downloads": {
+        "lzma": {
+          "sha1": "dcf91f0cb43afb6db357057f3fc7c5c5e9470ea5",
+          "size": 3171937,
+          "url": "https://piston-data.mojang.com/v1/objects/dcf91f0cb43afb6db357057f3fc7c5c5e9470ea5/icudtl.dat"
+        },
+        "raw": {
+          "sha1": "fe532df1de6dd6f9971227b48f8856e07ae0883d",
+          "size": 10130560,
+          "url": "https://piston-data.mojang.com/v1/objects/fe532df1de6dd6f9971227b48f8856e07ae0883d/icudtl.dat"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/libEGL.dll": {
+      "downloads": {
+        "lzma": {
+          "sha1": "acf380fcc8653ec10c9a7fe6d366fecfaba52c2d",
+          "size": 38228,
+          "url": "https://piston-data.mojang.com/v1/objects/acf380fcc8653ec10c9a7fe6d366fecfaba52c2d/libEGL.dll"
+        },
+        "raw": {
+          "sha1": "58d82865ab86a193f8f6ff1cbf7677525f6e217d",
+          "size": 92672,
+          "url": "https://piston-data.mojang.com/v1/objects/58d82865ab86a193f8f6ff1cbf7677525f6e217d/libEGL.dll"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/libGLESv2.dll": {
+      "downloads": {
+        "lzma": {
+          "sha1": "f8c795577b501a73ac1cdfa71a49813835b941f7",
+          "size": 1234614,
+          "url": "https://piston-data.mojang.com/v1/objects/f8c795577b501a73ac1cdfa71a49813835b941f7/libGLESv2.dll"
+        },
+        "raw": {
+          "sha1": "ce2785277d60aa366e6faf3c3318d5767a3d949e",
+          "size": 3922432,
+          "url": "https://piston-data.mojang.com/v1/objects/ce2785277d60aa366e6faf3c3318d5767a3d949e/libGLESv2.dll"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/libcef.dll": {
+      "downloads": {
+        "lzma": {
+          "sha1": "15115271c7dff9294e2af6d693bc5cf07dd40386",
+          "size": 31035636,
+          "url": "https://piston-data.mojang.com/v1/objects/15115271c7dff9294e2af6d693bc5cf07dd40386/libcef.dll"
+        },
+        "raw": {
+          "sha1": "9b7827325d6fdc5b7faf38fb60ee8bf6bd25d120",
+          "size": 98275328,
+          "url": "https://piston-data.mojang.com/v1/objects/9b7827325d6fdc5b7faf38fb60ee8bf6bd25d120/libcef.dll"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/natives_blob.bin": {
+      "downloads": {
+        "lzma": {
+          "sha1": "26206e95d4fc433386964e7764ea32c51115ccb0",
+          "size": 42624,
+          "url": "https://piston-data.mojang.com/v1/objects/26206e95d4fc433386964e7764ea32c51115ccb0/natives_blob.bin"
+        },
+        "raw": {
+          "sha1": "1d5346516d5f1f7546d4400ca3eea55022ddd9bd",
+          "size": 246209,
+          "url": "https://piston-data.mojang.com/v1/objects/1d5346516d5f1f7546d4400ca3eea55022ddd9bd/natives_blob.bin"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/CEF3/Win64/snapshot_blob.bin": {
+      "downloads": {
+        "lzma": {
+          "sha1": "6c44c3f1e2bdcbbf066c61a976c0388f84d46fe5",
+          "size": 212488,
+          "url": "https://piston-data.mojang.com/v1/objects/6c44c3f1e2bdcbbf066c61a976c0388f84d46fe5/snapshot_blob.bin"
+        },
+        "raw": {
+          "sha1": "2af54c9bd47e1b31fb930c90379a74a082f357d4",
+          "size": 1562112,
+          "url": "https://piston-data.mojang.com/v1/objects/2af54c9bd47e1b31fb930c90379a74a082f357d4/snapshot_blob.bin"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/DbgHelp": {
+      "type": "directory"
+    },
+    "Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll": {
+      "downloads": {
+        "lzma": {
+          "sha1": "f7c37c1390066de4444edef7dc890cb7f6bf4546",
+          "size": 420890,
+          "url": "https://piston-data.mojang.com/v1/objects/f7c37c1390066de4444edef7dc890cb7f6bf4546/dbghelp.dll"
+        },
+        "raw": {
+          "sha1": "ec3a7fd5861447d615968c51e507cd376a48bd6b",
+          "size": 1369936,
+          "url": "https://piston-data.mojang.com/v1/objects/ec3a7fd5861447d615968c51e507cd376a48bd6b/dbghelp.dll"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/NVIDIA": {
+      "type": "directory"
+    },
+    "Engine/Binaries/ThirdParty/NVIDIA/NVaftermath": {
+      "type": "directory"
+    },
+    "Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64": {
+      "type": "directory"
+    },
+    "Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll": {
+      "downloads": {
+        "lzma": {
+          "sha1": "ea5857b2b551b6bba1d7f96d609c1be24142964e",
+          "size": 48701,
+          "url": "https://piston-data.mojang.com/v1/objects/ea5857b2b551b6bba1d7f96d609c1be24142964e/GFSDK_Aftermath_Lib.x64.dll"
+        },
+        "raw": {
+          "sha1": "26fc0fa7d47ac99c99465a7a5176b3de49bb14d9",
+          "size": 117760,
+          "url": "https://piston-data.mojang.com/v1/objects/26fc0fa7d47ac99c99465a7a5176b3de49bb14d9/GFSDK_Aftermath_Lib.x64.dll"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/Ogg": {
+      "type": "directory"
+    },
+    "Engine/Binaries/ThirdParty/Ogg/Win64": {
+      "type": "directory"
+    },
+    "Engine/Binaries/ThirdParty/Ogg/Win64/VS2015": {
+      "type": "directory"
+    },
+    "Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll": {
+      "downloads": {
+        "lzma": {
+          "sha1": "4758f936b78c592af5cf1e0c5d9421eedc3621b6",
+          "size": 11975,
+          "url": "https://piston-data.mojang.com/v1/objects/4758f936b78c592af5cf1e0c5d9421eedc3621b6/libogg_64.dll"
+        },
+        "raw": {
+          "sha1": "654144e0ddedc26b0b3be8e6562784abad1b471f",
+          "size": 49152,
+          "url": "https://piston-data.mojang.com/v1/objects/654144e0ddedc26b0b3be8e6562784abad1b471f/libogg_64.dll"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/PhysX3": {
+      "type": "directory"
+    },
+    "Engine/Binaries/ThirdParty/PhysX3/Win64": {
+      "type": "directory"
+    },
+    "Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015": {
+      "type": "directory"
+    },
+    "Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/APEX_Clothing_x64.dll": {
+      "downloads": {
+        "lzma": {
+          "sha1": "9f0229f9f25219a3ccff7721fb62b88d8160a78e",
+          "size": 393867,
+          "url": "https://piston-data.mojang.com/v1/objects/9f0229f9f25219a3ccff7721fb62b88d8160a78e/APEX_Clothing_x64.dll"
+        },
+        "raw": {
+          "sha1": "4af4f9660915a3c871db3d136fc946930f0a8208",
+          "size": 1219072,
+          "url": "https://piston-data.mojang.com/v1/objects/4af4f9660915a3c871db3d136fc946930f0a8208/APEX_Clothing_x64.dll"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/APEX_Legacy_x64.dll": {
+      "downloads": {
+        "lzma": {
+          "sha1": "d482177c82771c259927629968d17c86d227156c",
+          "size": 490007,
+          "url": "https://piston-data.mojang.com/v1/objects/d482177c82771c259927629968d17c86d227156c/APEX_Legacy_x64.dll"
+        },
+        "raw": {
+          "sha1": "f613ed47b1acca18266811eb52eba3b16a6fc2f7",
+          "size": 3329536,
+          "url": "https://piston-data.mojang.com/v1/objects/f613ed47b1acca18266811eb52eba3b16a6fc2f7/APEX_Legacy_x64.dll"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/ApexFramework_x64.dll": {
+      "downloads": {
+        "lzma": {
+          "sha1": "d3660b0becc2802523be7b1ab7b48f0b6a03e300",
+          "size": 299441,
+          "url": "https://piston-data.mojang.com/v1/objects/d3660b0becc2802523be7b1ab7b48f0b6a03e300/ApexFramework_x64.dll"
+        },
+        "raw": {
+          "sha1": "2e95d457b7fff13f245174f536a5e556017346c9",
+          "size": 1043968,
+          "url": "https://piston-data.mojang.com/v1/objects/2e95d457b7fff13f245174f536a5e556017346c9/ApexFramework_x64.dll"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/NvCloth_x64.dll": {
+      "downloads": {
+        "lzma": {
+          "sha1": "e3de5bd8a7b96a519459a918fd5b1c65cfade45a",
+          "size": 100559,
+          "url": "https://piston-data.mojang.com/v1/objects/e3de5bd8a7b96a519459a918fd5b1c65cfade45a/NvCloth_x64.dll"
+        },
+        "raw": {
+          "sha1": "026d77a9675dc0b185f98e6c40da5a64a3b62c87",
+          "size": 265728,
+          "url": "https://piston-data.mojang.com/v1/objects/026d77a9675dc0b185f98e6c40da5a64a3b62c87/NvCloth_x64.dll"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3Common_x64.dll": {
+      "downloads": {
+        "lzma": {
+          "sha1": "711d5e212ef2798bae3d0ab26944e891e0b92c03",
+          "size": 498255,
+          "url": "https://piston-data.mojang.com/v1/objects/711d5e212ef2798bae3d0ab26944e891e0b92c03/PhysX3Common_x64.dll"
+        },
+        "raw": {
+          "sha1": "b32fed7a35f87263ebb94c9ae800af28df615b26",
+          "size": 1598976,
+          "url": "https://piston-data.mojang.com/v1/objects/b32fed7a35f87263ebb94c9ae800af28df615b26/PhysX3Common_x64.dll"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3Cooking_x64.dll": {
+      "downloads": {
+        "lzma": {
+          "sha1": "11d4d49446f835cbe2cb62471bc664b0bcfb84b1",
+          "size": 99707,
+          "url": "https://piston-data.mojang.com/v1/objects/11d4d49446f835cbe2cb62471bc664b0bcfb84b1/PhysX3Cooking_x64.dll"
+        },
+        "raw": {
+          "sha1": "55c35f5aa125c0bde96069760f02a08f882f7371",
+          "size": 244736,
+          "url": "https://piston-data.mojang.com/v1/objects/55c35f5aa125c0bde96069760f02a08f882f7371/PhysX3Cooking_x64.dll"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3_x64.dll": {
+      "downloads": {
+        "lzma": {
+          "sha1": "fc2c9e7893652f30f6905ae99375485d44784039",
+          "size": 654268,
+          "url": "https://piston-data.mojang.com/v1/objects/fc2c9e7893652f30f6905ae99375485d44784039/PhysX3_x64.dll"
+        },
+        "raw": {
+          "sha1": "7c9f52425af79ebe72cbe604db6ab8f59b0800d1",
+          "size": 2106368,
+          "url": "https://piston-data.mojang.com/v1/objects/7c9f52425af79ebe72cbe604db6ab8f59b0800d1/PhysX3_x64.dll"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxFoundation_x64.dll": {
+      "downloads": {
+        "lzma": {
+          "sha1": "d0f8ec8ce782240cdd06c98b7f6a6c97d4307f25",
+          "size": 20493,
+          "url": "https://piston-data.mojang.com/v1/objects/d0f8ec8ce782240cdd06c98b7f6a6c97d4307f25/PxFoundation_x64.dll"
+        },
+        "raw": {
+          "sha1": "944dbddec40d670edc7f793f98804f365d06aec4",
+          "size": 54784,
+          "url": "https://piston-data.mojang.com/v1/objects/944dbddec40d670edc7f793f98804f365d06aec4/PxFoundation_x64.dll"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxPvdSDK_x64.dll": {
+      "downloads": {
+        "lzma": {
+          "sha1": "e9ff9c6f95a1f0239ed41c8d14490883a557ec51",
+          "size": 58044,
+          "url": "https://piston-data.mojang.com/v1/objects/e9ff9c6f95a1f0239ed41c8d14490883a557ec51/PxPvdSDK_x64.dll"
+        },
+        "raw": {
+          "sha1": "dca5b6ffa2d32d339abfa3c5a651c205010e52db",
+          "size": 188928,
+          "url": "https://piston-data.mojang.com/v1/objects/dca5b6ffa2d32d339abfa3c5a651c205010e52db/PxPvdSDK_x64.dll"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/Vorbis": {
+      "type": "directory"
+    },
+    "Engine/Binaries/ThirdParty/Vorbis/Win64": {
+      "type": "directory"
+    },
+    "Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015": {
+      "type": "directory"
+    },
+    "Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll": {
+      "downloads": {
+        "lzma": {
+          "sha1": "2058f32f372a82bf8c3473daec1fe9b8e7b62112",
+          "size": 166608,
+          "url": "https://piston-data.mojang.com/v1/objects/2058f32f372a82bf8c3473daec1fe9b8e7b62112/libvorbis_64.dll"
+        },
+        "raw": {
+          "sha1": "aab805e149c4d8e79005ed190e60fcf11cd2639a",
+          "size": 1714176,
+          "url": "https://piston-data.mojang.com/v1/objects/aab805e149c4d8e79005ed190e60fcf11cd2639a/libvorbis_64.dll"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll": {
+      "downloads": {
+        "lzma": {
+          "sha1": "8d81b73e4b68040be68e7a45316373b811cb78da",
+          "size": 16946,
+          "url": "https://piston-data.mojang.com/v1/objects/8d81b73e4b68040be68e7a45316373b811cb78da/libvorbisfile_64.dll"
+        },
+        "raw": {
+          "sha1": "abcb7d34014ea23a64b8fe077ff629de6f10e9f1",
+          "size": 37888,
+          "url": "https://piston-data.mojang.com/v1/objects/abcb7d34014ea23a64b8fe077ff629de6f10e9f1/libvorbisfile_64.dll"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/Windows": {
+      "type": "directory"
+    },
+    "Engine/Binaries/ThirdParty/Windows/DirectX": {
+      "type": "directory"
+    },
+    "Engine/Binaries/ThirdParty/Windows/DirectX/x64": {
+      "type": "directory"
+    },
+    "Engine/Binaries/ThirdParty/Windows/DirectX/x64/WinPixEventRuntime.dll": {
+      "downloads": {
+        "lzma": {
+          "sha1": "9617a22eca7b8c297ef6c55953cb970b3342768d",
+          "size": 22447,
+          "url": "https://piston-data.mojang.com/v1/objects/9617a22eca7b8c297ef6c55953cb970b3342768d/WinPixEventRuntime.dll"
+        },
+        "raw": {
+          "sha1": "669768620446f0aac1a18eda98cf6a8decf1b8fc",
+          "size": 44752,
+          "url": "https://piston-data.mojang.com/v1/objects/669768620446f0aac1a18eda98cf6a8decf1b8fc/WinPixEventRuntime.dll"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/ThirdParty/libsndfile": {
+      "type": "directory"
+    },
+    "Engine/Binaries/ThirdParty/libsndfile/Win64": {
+      "type": "directory"
+    },
+    "Engine/Binaries/ThirdParty/libsndfile/Win64/libsndfile-1.dll": {
+      "downloads": {
+        "lzma": {
+          "sha1": "3a7615909b7ac1a695eceb5860526739d102ad60",
+          "size": 464844,
+          "url": "https://piston-data.mojang.com/v1/objects/3a7615909b7ac1a695eceb5860526739d102ad60/libsndfile-1.dll"
+        },
+        "raw": {
+          "sha1": "5d7013e9d4cad2d9088f756fa2a692462fa230f7",
+          "size": 1810944,
+          "url": "https://piston-data.mojang.com/v1/objects/5d7013e9d4cad2d9088f756fa2a692462fa230f7/libsndfile-1.dll"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/Win64": {
+      "type": "directory"
+    },
+    "Engine/Binaries/Win64/CrashReportClient.exe": {
+      "downloads": {
+        "lzma": {
+          "sha1": "12fd6455950980141d4e34ded9f4833f2a93bb78",
+          "size": 4870994,
+          "url": "https://piston-data.mojang.com/v1/objects/12fd6455950980141d4e34ded9f4833f2a93bb78/CrashReportClient.exe"
+        },
+        "raw": {
+          "sha1": "31340e156e7e9b0060d0ecb8a4f4842c585f10ea",
+          "size": 16351232,
+          "url": "https://piston-data.mojang.com/v1/objects/31340e156e7e9b0060d0ecb8a4f4842c585f10ea/CrashReportClient.exe"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Binaries/Win64/UnrealCEFSubProcess.exe": {
+      "downloads": {
+        "lzma": {
+          "sha1": "a7a27a21e18d2b5f4ebaa58ea8a3dd763d0b009f",
+          "size": 961882,
+          "url": "https://piston-data.mojang.com/v1/objects/a7a27a21e18d2b5f4ebaa58ea8a3dd763d0b009f/UnrealCEFSubProcess.exe"
+        },
+        "raw": {
+          "sha1": "c2051e1573ccaa942fb4ff043386c989df2dbf7e",
+          "size": 3693568,
+          "url": "https://piston-data.mojang.com/v1/objects/c2051e1573ccaa942fb4ff043386c989df2dbf7e/UnrealCEFSubProcess.exe"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Content": {
+      "type": "directory"
+    },
+    "Engine/Content/SlateDebug": {
+      "type": "directory"
+    },
+    "Engine/Content/SlateDebug/Fonts": {
+      "type": "directory"
+    },
+    "Engine/Content/SlateDebug/Fonts/LastResort.tps": {
+      "downloads": {
+        "lzma": {
+          "sha1": "81cb5f3e3b7838ecfb22b440af033007885f6e43",
+          "size": 540,
+          "url": "https://piston-data.mojang.com/v1/objects/81cb5f3e3b7838ecfb22b440af033007885f6e43/LastResort.tps"
+        },
+        "raw": {
+          "sha1": "57161fd8fcfc3e071179f48a9df67971c2dcc94b",
+          "size": 930,
+          "url": "https://piston-data.mojang.com/v1/objects/57161fd8fcfc3e071179f48a9df67971c2dcc94b/LastResort.tps"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Content/SlateDebug/Fonts/LastResort.ttf": {
+      "downloads": {
+        "lzma": {
+          "sha1": "443353c0c2857da8c84fef60559b460e7b887b4e",
+          "size": 416555,
+          "url": "https://piston-data.mojang.com/v1/objects/443353c0c2857da8c84fef60559b460e7b887b4e/LastResort.ttf"
+        },
+        "raw": {
+          "sha1": "e4cd182c152c7d50c0ca230c86033d63b3fbd057",
+          "size": 5395052,
+          "url": "https://piston-data.mojang.com/v1/objects/e4cd182c152c7d50c0ca230c86033d63b3fbd057/LastResort.ttf"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Extras": {
+      "type": "directory"
+    },
+    "Engine/Extras/Redist": {
+      "type": "directory"
+    },
+    "Engine/Extras/Redist/en-us": {
+      "type": "directory"
+    },
+    "Engine/Extras/Redist/en-us/UE4PrereqSetup_x64.exe": {
+      "downloads": {
+        "raw": {
+          "sha1": "417e12c4582ee2fcfcdf255a1174703b78c41a2c",
+          "size": 41562088,
+          "url": "https://piston-data.mojang.com/v1/objects/417e12c4582ee2fcfcdf255a1174703b78c41a2c/UE4PrereqSetup_x64.exe"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    },
+    "Engine/Programs": {
+      "type": "directory"
+    },
+    "Engine/Programs/CrashReportClient": {
+      "type": "directory"
+    },
+    "Engine/Programs/CrashReportClient/Content": {
+      "type": "directory"
+    },
+    "Engine/Programs/CrashReportClient/Content/Paks": {
+      "type": "directory"
+    },
+    "Engine/Programs/CrashReportClient/Content/Paks/CrashReportClient.pak": {
+      "downloads": {
+        "lzma": {
+          "sha1": "2c3726d24b804e87ee06d6b2c956ce598be6f835",
+          "size": 6724299,
+          "url": "https://piston-data.mojang.com/v1/objects/2c3726d24b804e87ee06d6b2c956ce598be6f835/CrashReportClient.pak"
+        },
+        "raw": {
+          "sha1": "9c718bda95f1093e14c61b91f7fc9a7d0668132f",
+          "size": 23509798,
+          "url": "https://piston-data.mojang.com/v1/objects/9c718bda95f1093e14c61b91f7fc9a7d0668132f/CrashReportClient.pak"
+        }
+      },
+      "executable": false,
+      "type": "file"
+    }
+  }
+}
