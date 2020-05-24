@@ -13,7 +13,12 @@ import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.scene.control.ProgressBar;
 import javafx.scene.control.TextField;
+import javafx.scene.layout.BorderPane;
 import javafx.scene.layout.VBox;
+import javafx.scene.paint.Color;
+import javafx.scene.text.Font;
+import javafx.scene.text.FontPosture;
+import javafx.scene.text.FontWeight;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
 import org.apache.commons.codec.digest.DigestUtils;
@@ -36,9 +41,9 @@ public class ManifestDownloader extends Application implements Executor {
 
     private final Queue<Runnable> queueChunkTracking = Queues.newConcurrentLinkedQueue();
 
+    private Stage stage;
     private ProgressBar progressBar;
     private Text progressText;
-    private Button startButton;
 
     public static void main(String[] args) {
         Application.launch(args);
@@ -200,7 +205,9 @@ public class ManifestDownloader extends Application implements Executor {
     private void complete() {
         this.execute(() -> {
             OnlineRequest.restart();
-            startButton.setDisable(false);
+            this.downloadCompleteCount.set(0);
+            this.total = 0;
+            this.init(false);
         });
     }
 
@@ -208,50 +215,63 @@ public class ManifestDownloader extends Application implements Executor {
         this.execute(() -> {
             this.downloadCompleteCount.incrementAndGet();
             this.progressText.setText(this.downloadCompleteCount.get() + "/" + this.total + " Files Downloaded");
-            this.progressBar.setProgress(total == 0 ? 0 : (double) this.downloadCompleteCount.get() / (double) this.total);
+            this.progressBar.setProgress(total == 0 ? 0.0 : (double) this.downloadCompleteCount.get() / (double) this.total);
             if (this.downloadCompleteCount.get() >= this.total) {
                 complete();
             }
         });
     }
 
-    @Override
-    public void start(Stage stage) throws Exception {
-        stage.setOnCloseRequest(event -> OnlineRequest.shutdown());
-
+    private void init(boolean running) {
         Group root = new Group();
         Scene scene = new Scene(root, 640, 480);
-        stage.setScene(scene);
-        stage.setTitle("Mojang Manifest Downloader");
-        stage.setResizable(false);
+        this.stage.setScene(scene);
+        this.stage.setTitle("Mojang Manifest Downloader v1.1");
+        this.stage.setResizable(false);
 
         progressText = new Text();
         progressText.setText(downloadCompleteCount.get() + "/" + total + " Files Downloaded");
 
-        progressBar = new ProgressBar();
-        progressBar.setProgress(total == 0 ? 0 : (double) downloadCompleteCount.get() / (double) total);
-        progressBar.setPrefSize(250, 25);
-
-        TextField inputURL = new TextField();
-        inputURL.setMaxWidth(640.0 / 2.0);
-        inputURL.setText("Input metadata URL here");
-
-        startButton = new Button();
-        startButton.setText("Start!");
-        startButton.setOnMouseClicked(event -> {
-            downloadManifest(inputURL.getText());
-            startButton.setDisable(true);
-        });
+        Text authorText = new Text("Made by Ocelot5836 & Tastac");
+        authorText.setFont(Font.font("arial", FontWeight.BOLD, FontPosture.REGULAR, 16));
+        authorText.setFill(Color.LIGHTGRAY);
 
         VBox vBox = new VBox();
         vBox.setSpacing(5);
         vBox.setAlignment(Pos.CENTER);
-        vBox.getChildren().addAll(progressText, progressBar, inputURL, startButton);
-        scene.setRoot(vBox);
-        stage.show();
+        vBox.getChildren().add(progressText);
 
-//        OnlineRequest.restart();
-//        downloadManifest(test);
+        if (!running) {
+            TextField inputURL = new TextField();
+            inputURL.setMaxWidth(640.0 / 2.0);
+            inputURL.setPromptText("Input metadata URL here");
+
+            Button startButton = new Button();
+            startButton.setText("Start!");
+            startButton.setOnMouseClicked(event -> {
+                this.init(true);
+                downloadManifest(inputURL.getText());
+            });
+            vBox.getChildren().addAll(inputURL, startButton);
+        } else {
+            progressBar = new ProgressBar();
+            progressBar.setProgress(total == 0 ? 0.0 : (double) this.downloadCompleteCount.get() / (double) this.total);
+            progressBar.setPrefSize(250, 25);
+            vBox.getChildren().add(progressBar);
+        }
+
+        BorderPane border = new BorderPane();
+        border.setCenter(vBox);
+        border.setBottom(authorText);
+
+        scene.setRoot(border);
+    }
+
+    @Override
+    public void start(Stage stage) throws Exception {
+        this.stage = stage;
+        this.init(false);
+        stage.show();
 
         new AnimationTimer() {
             @Override
